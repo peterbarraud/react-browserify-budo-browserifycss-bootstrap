@@ -34,11 +34,11 @@
     "@babel/preset-env": "^7.3.4",
     "@babel/preset-react": "^7.0.0",
     "babelify": "^10.0.0",
-    "browserify-css": "^0.14.0",
+    "browserify-css": "^0.15.0",
     "budo": "^11.6.1",
     "html-dist": "^1.0.1",
     "mkdirp": "^0.5.1",
-    "rimraf": "^2.6.3",
+    "rimraf": "3.0.0",
     "uglifyify": "^5.0.1"
   },
   "dependencies": {
